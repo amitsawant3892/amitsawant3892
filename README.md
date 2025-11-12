@@ -35,7 +35,7 @@
 
 | 🔗 Project | 🧰 Tech Stack | 📄 Description |
 |------------|---------------|----------------|
-| [**College & Courses REST API**](https://github.com/amitsawant3892/Dummy_API) | Python, Flask, SQLite, Postman | Developed a RESTful API to manage employee and project data with CRUD operations, JSON/XML support, and database integration. |
+| [**College & Courses REST API**](https://github.com/amitsawant3892/Dummuy_API) | Python, Flask, SQLite, Postman | Developed a RESTful API to manage employee and project data with CRUD operations, JSON/XML support, and database integration. |
 | [**Fake Review Detection**](https://github.com/amitsawant3892/fake-review-detection) | Python, Streamlit, Machine Learning | Built an ML model to detect fake vs genuine reviews using TF-IDF & classification algorithms with 86% accuracy. |
 | [**SQL EDA – Classic Models Database**](https://github.com/amitsawant3892/EDA_Project-using-SQL) | SQL | Performed comprehensive EDA using joins, subqueries, and stored procedures to extract key business insights. |
 | [**Sales Analysis Dashboard**](https://github.com/amitsawant3892/Sales_Dashboard) | MS Excel | Designed an interactive dashboard with KPIs, charts & slicers to visualize ₹4,01,411 total sales and 21% profit margin. |
