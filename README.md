@@ -47,7 +47,7 @@
 | Category | Tools / Technologies |
 |-----------|---------------------|
 | **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Flask, Pydantic |
 | **Tools** | Power BI, Tableau, Excel, Jupyter Notebook, VS Code, Git |
 | **Databases** | MySQL, SQLite |
 | **Techniques** | EDA, Data Cleaning, Data Visualization, Predictive Modeling, Dashboarding, Business Intelligence |
